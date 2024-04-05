@@ -1,5 +1,5 @@
 {
-  "name": "@the_grid/LocationFinder",
+  "name": "@the_grid/locationfinder",
   "version": "1.0.0",
   "description": "simple location finder",
   "main": "useGetAddress.js",
